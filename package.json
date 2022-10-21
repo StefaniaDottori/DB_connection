@@ -1,0 +1,25 @@
+{
+  "name": "crud_express_mysql",
+  "version": "1.0.0",
+  "description": "ejemplo de CRUD - Express - MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefania Dottori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CRUD"
+  },
+  "keywords": [
+    "Create",
+    "read",
+    "update",
+    "delete"
+  ]
+}
